@@ -17,4 +17,4 @@ python manage.py migrate(миграция данных)
 
 python manage.py runserver(Запуск сервера)
 
-Ссылка на файлы:
+Ссылка на файлы: https://github.com/SulaMa4ete/SixthLabDjango/releases/tag/release-6
